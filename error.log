@@ -1,0 +1,62 @@
+[31-May-2012 16:40:04] PHP Notice:  Undefined index: user in /home/tw/ReadY/web/pruebas/relato.php on line 70
+[31-May-2012 16:41:09] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 16:44:34] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 16:44:34] PHP Notice:  Undefined variable: _SESSION in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 13
+[31-May-2012 16:46:47] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 16:46:47] PHP Notice:  Undefined variable: _SESSION in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 13
+[31-May-2012 16:46:50] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /home/tw/ReadY/web/pruebas/comun.php on line 3
+[31-May-2012 16:46:50] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 16:46:54] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 16:46:54] PHP Notice:  Undefined variable: _SESSION in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 13
+[31-May-2012 16:48:21] PHP Parse error:  syntax error, unexpected '}' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 30
+[31-May-2012 16:48:50] PHP Parse error:  syntax error, unexpected '}' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 30
+[31-May-2012 16:49:37] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 16:50:25] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 16:50:25] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:19:35] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:21:56] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:21] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 17:22:21] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:26] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:32] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 17:22:32] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:35] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:43] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 17:22:43] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:45] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:49] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 17:22:49] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:54] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:55] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:57] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:22:57] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 74
+[31-May-2012 17:22:57] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 76
+[31-May-2012 17:23:14] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:23:14] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 74
+[31-May-2012 17:23:14] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 76
+[31-May-2012 17:23:20] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 17:23:20] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:23:20] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 74
+[31-May-2012 17:23:20] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 76
+[31-May-2012 17:23:21] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:23:35] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 17:23:35] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:23:36] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:23:44] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/tw/ReadY/web/pruebas/modifyImagen.php on line 10
+[31-May-2012 17:23:45] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:24:20] PHP Notice:  Undefined variable: titulo in /home/tw/ReadY/web/pruebas/Buscar.php on line 29
+[31-May-2012 17:24:23] PHP Notice:  Undefined variable: i in /home/tw/ReadY/web/pruebas/user.php on line 73
+[31-May-2012 17:24:26] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:24:44] PHP Notice:  Undefined variable: _SESSION in /home/tw/ReadY/web/pruebas/insertar.php on line 6
+[31-May-2012 17:24:44] PHP Notice:  Use of undefined constant Ready85674Jessica - assumed 'Ready85674Jessica' in /home/tw/ReadY/web/pruebas/insertar.php on line 25
+[31-May-2012 17:25:28] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:25:39] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:25:52] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:26:20] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:26:23] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:29:37] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:29:44] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:30:08] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:33:54] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:34:01] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159
+[31-May-2012 17:34:05] PHP Notice:  Undefined variable: cotenido in /home/tw/ReadY/web/pruebas/administrador.php on line 159

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<head>
+<title>leeme</title>
+</head>
+
+<body>
+<ul>
+	<li>
+		<h1>
+			<a href="index.php">Portada</a>
+		</h1>
+		<p>
+			1.- Pantalla que muestra la primera imagen que ve un visitante cuando accede a la pagina principal.
+			Solamente contiene informacion de presentacion, y algun elemento de interes como una encuesta y
+			algunos relatos y usuarios (que en principio serán los mejores en algo), que se repetira en el
+			resto de pantallas.
+			2.- Se ha añadido la validacion de los campos usuario y contraseña de la cabecera de la pagina.
+			Modificado tambien el aspecto de los botones de la página para que su estilo se amolde mas al resto
+			de la página; y el pie de página para sustituir el "sitename" anterior por el nombre de la página.
+			Además se ha incluido un widget de Twitter que muestra los 3 tweets mas recientes de una cuenta de usuario.
+			(Nos hemos creado una propia para Read-Y!, pero para que se vean reflejados los cambios, hemos puesto otra 
+			cuenta de temática literaria que escribe con cierta frecuencia)
+			3.- Se añade la funcionalidad para mostrar los relatos y un "Top" de los mismos y de usuarios, de manera dinamica
+			mediante consultas SQL.
+		</p>
+	</li>
+	<li>
+		<h1>
+			<a href="relato.php">Ver un relato</a>
+		</h1>
+		<p>
+			1.- En esta pantalla se ve el relato completo y se ofrece la posibilidad de valorarlo y dejar comentarios, 
+			que a su vez se podran valorar. 
+			2.- En esta entrega se han añadido los comportamientos para las votaciones y se ha reducido el espacio vertical
+			entre los botones de valoracion de comentarios (bueno/malo) y los propios comentarios.
+			3.- Se añade la funcionalidad de comentar los relatos asi como de colaborar con el autor y valorar tanto el relato
+			como los comentarios.
+		</p>
+	</li>
+	<li>
+		<h1>
+			<a href="colaborar.php">Colaborar</a>
+		</h1>
+		<p>
+			1.- Pantalla parecida a la anterior, pero cuya finalidad es recoger la "critica" que realiza un colaborador 
+			a modo de corrrecion, sobre el relato.
+			3.- Se publican las colaboraciones de forma dinamica, la cuál solo será vista por el autor del relato y los 
+			administradores.
+		</p>
+	</li>
+	<li>
+		<h1>
+			<a href="user.php">Usuario</a>
+		</h1>
+		<p>
+			1.- Muestra la informacion de un usuario registrado (datos de registro, ultima actividad, colaboradores, etc.)
+			3.- Se muestra la informacion del usuario recogiéndola de la BD.
+		</p>
+	</li>
+	<li>
+		<h1>
+			<a href="register.php">Registro</a>
+		</h1>
+		<p>
+			1.- Formulario de recogida de datos para dar de alta a un usuario. Se solicitan los datos mas tipicos: correo, 
+			password, y una breve descripcion.
+			2.- Añadida la validacion del formulario para los campos requeridos o de tipo email.
+			3.- Efectua el registro del usuario añadiéndolo a la BD.
+		</p>
+	</li>
+	<li>
+		<h1>
+			<a href="administrador.php">Administrador</a>
+		</h1>
+		<p>
+			1.- Vista que tendra el administrador de los elementos de la pagina. Se presenta una tabla con la informacion de todos 
+			los usuarios, relatos y actividad reciente. (algunas de las ventanas anteriores tendran modificaciones para
+			la vista del administrador, cuya diferencia principal será que incorporarán botones especiales, para eliminacion
+			de contenido.)
+			2.- Añadidas las imagenes de borrado y la funcionalidad para eliminar filas de una tabla. Añadidos también enlaces a la 
+			pagina de usuario y relato en las tablas. Asimismo, se ha dividido la tabla de datos en 3 tablas distintas (usuarios, 
+			relatos y actividad reciente).
+			3.- Se muestran todos los relatos, comentarios, y usuarios, además de la actividad reciente (comentarios, colaboraciones, etc).
+		</p>
+	</li>
+	<li>
+		<h1>
+			<a href="TodosRelatos.php">Todos los Relatos</a>
+		</h1>
+		<p>
+			3.- Muestra todos los relatos.
+		</p>
+	</li>
+	<li>
+		<h1>
+			<a href="NewRelato.php">Nuevo Relato</a>
+		</h1>
+		<p>
+			3.- Formulario que permite a los usuarios escribir un nuevo relato y publicarlo.
+		</p>
+	</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</p>***NOTA1: La plantilla usada está sacada de la web <a href="http://www.freecsstemplates.org/">Free CSS templates</a></p>
+</p>***NOTA2: Para ver los efectos de nuestro código en la pagina hemos usado el navegador firefox en distintas versiones (v. 3.6 y v. 11)</p>
+</p>***NOTA3: Los cambios en los ficheros 'cabecera', 'pie' y 'lateral' estan reflejados en la explicacion de la portada</p>
+</p>***NOTA4: Consideramos que la propuesta es en esencia la misma así que incluimos la misma que en la practica anterior</p>
+</p>***NOTA5: Los administardores de la aplicacion son "pablo", "javi", "jessica" y sus respectivas contraseñas son las mismas que los nombres de usuario.</p>
+</p>***NOTA6: La carpeta data almacena las imagenes de los usuarios, pero debido a los permisos que tenemos otorgados en el servidor, no incluimos los jpg's de bantu.</p>
+<body>
+
+</html>
